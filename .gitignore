@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-model/model_vgg16.h5
+
 
 *.h5
 
