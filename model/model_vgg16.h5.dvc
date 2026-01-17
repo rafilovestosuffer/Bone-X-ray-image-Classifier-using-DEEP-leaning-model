@@ -1,0 +1,5 @@
+outs:
+- md5: 5b7384d2acd0fc37ee3c9ca38187ed7a
+  size: 136015800
+  hash: md5
+  path: model_vgg16.h5
