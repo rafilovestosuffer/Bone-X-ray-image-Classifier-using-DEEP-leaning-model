@@ -3,6 +3,10 @@
 A Flask-based deep learning web application that classifies bone X-ray images into fracture types using a VGG16 CNN architecture.
 The trained model is automatically downloaded from Google Drive at runtime to keep the GitHub repository clean and lightweight.
 
+MODEL DRIVE LINK :
+https://drive.google.com/file/d/1sKs5-xIzO4fAWiwqCZYRSAba51bBikPr/view?usp=sharing
+
+
 eatures
 
 ✅ Deep Learning model based on VGG16 (Transfer Learning architecture)
